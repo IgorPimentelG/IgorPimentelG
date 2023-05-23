@@ -5,13 +5,16 @@ e compartilhar conhecimento. Atualmente sou formado em análise e desenvolviment
 de sistemas e desenvolvedor frontend na empresa Luby Software, mas estou me
 apriomorando para em breve se tornar um desenvolvedor fullstack.
 
+<br />
+
 <div align="center">
   <a href="https://github.com/IgorPimentelG">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorPimentelG&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPimentelG&layout=compact&langs_count=7&theme=gruvbox&count_private=true"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div  style="display: flex; width: 100%; justify-content: center; margin-top: 16px;">
+  <br />
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
