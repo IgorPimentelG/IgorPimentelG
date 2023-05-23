@@ -1,5 +1,10 @@
 ## Hello, World!
 
+Eu sou um apaixonado por tecnologia, onde estou sempre em busca de aprender, codificar
+e compartilhar conhecimento. Atualmente sou formado em análise e desenvolvimento
+de sistemas e desenvolvedor frontend na empresa Luby Software, mas estou me
+apriomorando para em breve se tornar um desenvolvedor fullstack.
+
 <div align="center">
   <a href="https://github.com/IgorPimentelG">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorPimentelG&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
