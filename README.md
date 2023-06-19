@@ -2,7 +2,7 @@
 
 Eu sou um apaixonado por tecnologia, onde estou sempre em busca de aprender, codificar
 e compartilhar conhecimento. Atualmente sou formado em análise e desenvolvimento
-de sistemas e desenvolvedor frontend na empresa Luby Software, mas estou me
+de sistemas e desenvolvedor frontend, mas estou me
 apriomorando para em breve se tornar um desenvolvedor fullstack.
 
 <br />
